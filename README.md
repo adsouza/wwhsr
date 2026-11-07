@@ -1,2 +1,1 @@
-# wwhsr
-World-wide High-speed Rail
+# World-wide High-speed Rail
